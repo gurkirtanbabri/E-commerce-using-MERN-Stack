@@ -1,0 +1,39 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #343a40;
+
+}
+.carousel , .carousel-item ,.carousel-item img {
+  height:94vh;
+
+}
+.ProductGrid{
+  width:100%;
+  display: grid;
+  margin: auto;
+
+grid-gap: 50px 0px;
+  grid-template-columns:auto auto auto auto;
+}
+.gridItem{
+  justify-self: center;
+}
+.cartMsg{
+  position: fixed;
+  top:10vh;
+  left: 33%;
+}
+.cartGrid{
+
+  width:100%;
+  display: grid;
+  margin: auto;
+
+grid-gap: 5px 0px;
+  grid-template-columns:auto auto;
+}
