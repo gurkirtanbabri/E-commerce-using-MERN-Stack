@@ -46,7 +46,6 @@ exports.createProduct = (req,res)=>{
             // restriction
             const {price,name,description,category,stock} =fields;
 
-
             if(
                 !name||
                 !description ||

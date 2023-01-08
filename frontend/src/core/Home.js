@@ -18,7 +18,6 @@ export default function Home() {
   return (
     <div>
       <Menu/>
-      
       <Slider/>
       <Products/>
     </div>

@@ -28,11 +28,7 @@ const Base = ({
                  <h6 className="text-light text-center">Design and Developed by</h6>
                  <div className="d-flex justify-content-center ">
                      <div>
-                        <p className="text-light text-center"> Ramandeep kaur(10721718024)</p>
-                     </div>
-                     <div>
-                     <p className="text-light text-center">Naina khullar (10721718051)</p>
-                     
+                        <p className="text-light text-center"> Mandeep kaur</p>
                      </div>
                  </div>
              </div>
